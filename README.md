@@ -2,7 +2,7 @@
 
 I am a PhD student at the University of Cambridge working on data analysis techniques for 21-cm cosmology (check out [maxsmooth](https://github.com/htjb/maxsmooth) and [globalemu](https://github.com/htjb/globalemu) below). I have a keen interest in all things cosmology and data analysis 
 
-[![htjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=htjb)](https://github.com/htjb/github-readme-stats)
+[![htjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true)](https://github.com/htjb/github-readme-stats)
 
 <!--
 **htjb/htjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
