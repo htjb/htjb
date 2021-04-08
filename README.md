@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github...
 
 I am a PhD student at the University of Cambridge working on data analysis techniques for 21-cm cosmology (check out [maxsmooth](https://github.com/htjb/maxsmooth) and [globalemu](https://github.com/htjb/globalemu) below). I have a keen interest in all things cosmology and data analysis.
 
@@ -11,6 +11,10 @@ I am a PhD student at the University of Cambridge working on data analysis techn
 ### Contact
 
 If you are interested in any of my work or think that I could make a contribution to something you are working on then feel free to email me at <htjb2@cam.ac.uk>.
+
+### arXivSearcher
+
+If you have a spare moment check out the terminal based arXiv search tool I have built [here](https://github.com/htjb/arXivSearcher).
 
 ### Github stats
 
