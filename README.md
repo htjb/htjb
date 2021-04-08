@@ -12,9 +12,11 @@ I am a PhD student at the University of Cambridge working on data analysis techn
 
 If you are interested in any of my work or think that I could make a contribution to something you are working on then feel free to email me at <htjb2@cam.ac.uk>.
 
+### Github stats
+
 <p align="center">
-  <!--<img src="http://some_place.com/image.png" />-->
-  [![htjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true)](https://github.com/htjb/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true" />
+  <!--[![htjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true)](https://github.com/htjb/github-readme-stats)-->
 </p>
 
 <!--
