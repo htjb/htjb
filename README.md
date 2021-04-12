@@ -4,6 +4,7 @@ I am a PhD student at the University of Cambridge working on data analysis techn
 
 ### Latest Publications
 
+- H T J Bevins, W J Handley, A Fialkov, E de Lera Acedo and K Javid. globalemu:A novel and robust approach for emulating the sky-averaged 21-cm signal from the cosmic dawn and epoch of reionisation, April 2021, arXiv:2104.04336, https://arxiv.org/abs/2104.04336
 - H T J Bevins, W J Handley, A Fialkov, E de Lera Acedo, L J Greenhill, D C Price, maxsmooth: rapid maximally smooth function fitting with applications in Global 21-cm cosmology, Monthly Notices of the Royal Astronomical Society, Volume 502, Issue 3, April 2021, Pages 4405–4425, https://doi.org/10.1093/mnras/stab152
 - I.C. Niţu, H.T.J. Bevins, J.D. Bray, A.M.M. Scaife, An updated estimate of the cosmic radio background and implications for ultra-high-energy photon propagation, Astroparticle Physics, Volume 126, 2021, 102532, https://doi.org/10.1016/j.astropartphys.2020.102532
 - Bevins, H. T., (2020). maxsmooth: Derivative Constrained Function Fitting. Journal of Open Source Software, 5(54), 2596, https://doi.org/10.21105/joss.02596
