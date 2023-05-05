@@ -4,6 +4,9 @@ I am a PhD student at the University of Cambridge working on data analysis techn
 
 ### Latest Publications
 
+- H T J Bevins, W J Handley. Peicewise Normalizing Flows, arXiv:2305.02930, https://arxiv.org/abs/2305.02930
+- Bevins, Harry TJ, Stefan Heimersheim, Irene Abril-Cabezas, Anastasia Fialkov, Eloy de Lera Acedo, William Handley, Saurabh Singh, and Rennan Barkana. "Joint analysis constraints on the physics of the first galaxies with low frequency radio astronomy data." arXiv preprint arXiv:2301.03298 (2023), https://arxiv.org/abs/2301.03298.
+- Bevins, H. T. J., A. Fialkov, E. de Lera Acedo, W. J. Handley, S. Singh, R. Subrahmanyan, and R. Barkana. "Astrophysical constraints from the SARAS 3 non-detection of the cosmic dawn sky-averaged 21-cm signal." Nature Astronomy (2022): 1-11. https://www.nature.com/articles/s41550-022-01825-6
 - H T J Bevins, E de Lera Acedo, A Fialkov, W J Handley, S Saurabh, R Subrahmanyan and R Barkana. A Comprehensive Bayesian Re-analysis of the SARAS2 Data from the Epoch of Reionization, arXiv:2201.11531, https://arxiv.org/abs/2201.11531
 - H T J Bevins, W J Handley, A Fialkov, E de Lera Acedo and K Javid. globalemu:A novel and robust approach for emulating the sky-averaged 21-cm signal from the cosmic dawn and epoch of reionisation, MNRAS, Volume 508, Issue 2, December 2021, Pages 2923–2936, https://doi.org/10.1093/mnras/stab2737
 - H T J Bevins, W J Handley, A Fialkov, E de Lera Acedo, L J Greenhill, D C Price, maxsmooth: rapid maximally smooth function fitting with applications in Global 21-cm cosmology, Monthly Notices of the Royal Astronomical Society, Volume 502, Issue 3, April 2021, Pages 4405–4425, https://doi.org/10.1093/mnras/stab152
@@ -25,17 +28,3 @@ If you have a spare moment check out the terminal based arXiv search tool I have
   <!--[![htjb's GitHub stats](https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true)](https://github.com/htjb/github-readme-stats)-->
 </p>
 
-<!--
-**htjb/htjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
