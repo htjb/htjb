@@ -15,10 +15,3 @@ You can see a list of my [publications here](https://ui.adsabs.harvard.edu/searc
 ### Contact
 
 If you are interested in any of my work or think that I could make a contribution to something you are working on then feel free to email me at <htjb2@cam.ac.uk>.
-
-### Github stats
-
-<p align="center">
-<img height="207em" src="https://github-readme-stats.vercel.app/api?username=htjb&show_icons=true" align = "center"/>
-<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htjb&layout=compact&hide=jupyter%20notebook,tex&count_private=true" align = "center"/>
-</p>
